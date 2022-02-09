@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d7e237c7-1145-4096-aad1-902ce4d5685e": {
+      "ProjectGuid": "d7e237c7-1145-4096-aad1-902ce4d5685e",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "05c57627-5341-459a-bb92-de688b384cb6": {
+      "ProjectGuid": "05c57627-5341-459a-bb92-de688b384cb6",
+      "DisplayName": "Crud",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
